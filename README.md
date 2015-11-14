@@ -49,3 +49,18 @@ En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med m
 #### Video
 
 https://www.youtube.com/watch?v=SBb7P-RoYLU
+
+### In the shadows
+
+Ett väldigt litet spel där målet är att hitta utgången innan batteriet till ficklampan tar slut.
+
+![In the shadows](in_the_shadows.png) 
+
+#### Tekniker:
+
+ - [libGDX](https://libgdx.badlogicgames.com/)
+ - [Box2D](http://box2d.org/)
+ - [Box2DLights](https://github.com/libgdx/box2dlights)
+
+Koden ligger på [Github](https://github.com/ragulin/InTheShadows).
+
