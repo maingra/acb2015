@@ -14,6 +14,7 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
  - **Parallell metaprogrammering** - Pi med tusentals decimaler i Ruby
  - **Game Theory och Tensorflow** - Fördjupning och presentation
  - **Slideshower** - AppleTV-app med TVMLKit
+ - **ATHEGA PRINT3R** - En plotter byggd med Lego Mindstorm EV3
 
 ### Sticky Spider
 
@@ -41,12 +42,10 @@ Koden finns på <https://github.com/peterhellberg/nesdev/tree/master/src/athega>
 
 [![Video](https://i.ytimg.com/vi/7Ymu9AEUTDo/hqdefault.jpg)](https://www.youtube.com/watch?v=7Ymu9AEUTDo)
 
-### Parkera
+### ATHEGA PRINT3R
 
-En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
+En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med modifierat program för att skriva "athega".
 
-### Tekniker:
+#### Video
 
- - Google Play Services
- - Stockholm Open API
-
+https://www.youtube.com/watch?v=SBb7P-RoYLU
