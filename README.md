@@ -83,3 +83,12 @@ Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit g
 
  - https://github.com/lizell/tessel-lametric-track
  - https://github.com/lizell/tessel-physicalweb
+
+### Parkera
+
+En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
+
+### Tekniker:
+
+ - Google Play Services
+ - Stockholm Open API
