@@ -17,6 +17,8 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
 
 ### Sticky Spider
 
+<img src="https://raw.githubusercontent.com/athega/acb2015/master/stickyspiderpreview.png">
+
 Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape stöd. Banan och fiender slumpas fram och spindeln byter höjd med knapptryckning på skärmen.
 
 #### Tekniker:
