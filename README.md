@@ -10,12 +10,14 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
  - **In the Shadows** - Javaspel med libGDX
  - **athega.nes** - NESspel i 8 bitar
  - **Närvaroräknare och Physical Web** - Med Tessel och La Metric
- - **Parkera** - Android app för att undvika parkeringsböter
+ - **Parkera** - Android app för lättare parkering
  - **Parallell metaprogrammering** - Pi med tusentals decimaler i Ruby
  - **Game Theory och Tensorflow** - Fördjupning och presentation
  - **Slideshower** - AppleTV-app med TVMLKit
 
 ### Sticky Spider
+
+<img src="https://raw.githubusercontent.com/athega/acb2015/master/stickyspiderpreview.png">
 
 Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape stöd. Banan och fiender slumpas fram och spindeln byter höjd med knapptryckning på skärmen.
 
@@ -29,12 +31,12 @@ Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape
 #### Demo
 <a href="https://youtu.be/uAOrqWSfsbg"><img src="https://i.ytimg.com/vi/uAOrqWSfsbg/hqdefault.jpg"></a>
 
+### athega.nes
 
-### Parkera
+En ROM för Nintendo Entertainment System skriven i C med biblioteket Shiru's neslib. Kompilerad med [cc65](https://cc65.github.io/cc65/).
 
-En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
+Koden finns på <https://github.com/peterhellberg/nesdev/tree/master/src/athega>
 
-### Tekniker:
+#### Video
 
- - Google Play Services
- - Stockholm Open API
+[![Video](https://i.ytimg.com/vi/7Ymu9AEUTDo/hqdefault.jpg)](https://www.youtube.com/watch?v=7Ymu9AEUTDo)
