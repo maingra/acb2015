@@ -48,7 +48,7 @@ En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med m
 
 #### Video
 
-https://www.youtube.com/watch?v=SBb7P-RoYLU
+<a href="https://youtu.be/SBb7P-RoYLU"><img src="https://i.ytimg.com/vi/SBb7P-RoYLU/hqdefault.jpg"></a>
 
 ### In the shadows
 
