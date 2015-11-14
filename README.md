@@ -30,3 +30,13 @@ Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape
 
 #### Demo
 <a href="https://youtu.be/uAOrqWSfsbg"><img src="https://i.ytimg.com/vi/uAOrqWSfsbg/hqdefault.jpg"></a>
+
+### athega.nes
+
+En ROM för Nintendo Entertainment System skriven i C med biblioteket Shiru's neslib. Kompilerad med [cc65](https://cc65.github.io/cc65/).
+
+Koden finns på <https://github.com/peterhellberg/nesdev/tree/master/src/athega>
+
+#### Video
+
+[![Video](https://i.ytimg.com/vi/7Ymu9AEUTDo/hqdefault.jpg)](https://www.youtube.com/watch?v=7Ymu9AEUTDo)
