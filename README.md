@@ -40,3 +40,13 @@ Koden finns på <https://github.com/peterhellberg/nesdev/tree/master/src/athega>
 #### Video
 
 [![Video](https://i.ytimg.com/vi/7Ymu9AEUTDo/hqdefault.jpg)](https://www.youtube.com/watch?v=7Ymu9AEUTDo)
+
+### Parkera
+
+En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
+
+### Tekniker:
+
+ - Google Play Services
+ - Stockholm Open API
+
