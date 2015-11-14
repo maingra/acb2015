@@ -2,6 +2,8 @@
 
 Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av Nynäshamns skärgård där <a href="http://www.sodexomeetings.se/nynashavsbad/">Nynäshams Havsbad och Spa</a> ligger. 
 
+<img src="https://raw.githubusercontent.com/athega/acb2015/master/tornet.jpg">
+
 ## Projekten
 
  - **Sticky Spider** - iOS Swiftspel
