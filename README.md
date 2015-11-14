@@ -64,3 +64,22 @@ Ett väldigt litet spel där målet är att hitta utgången innan batteriet till
 
 Koden ligger på [Github](https://github.com/ragulin/InTheShadows).
 
+### Närvaroräknare och Physical Web
+
+Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit glögg, ätit julbord, osv med hjälp av bluetooth som många gäster har aktiverat i sina telefoner. Detta åstadkommer jag genom att skriva små trackers som körs på Tessel-mikrokontroller. De kan då samtidigt agera Physical Web beacons. Eftersom varje station är bemannad, kan man bara genom att ta fram sin telefon få mer information om den man pratar med. För demon har jag även visualiserat besöken på en La Metric.
+
+#### Teknik
+
+ - JavaScript
+ - [Tessel](https://tessel.io/)
+ - [La Metric](https://lametric.com/)
+ - [Physical Web](http://google.github.io/physical-web/)
+
+#### Demo
+
+<a href="https://youtu.be/1QNqxcHJ3w8"><img src="https://i.ytimg.com/vi/1QNqxcHJ3w8/hqdefault.jpg"></a>
+
+### Kod
+
+ - https://github.com/lizell/tessel-lametric-track
+ - https://github.com/lizell/tessel-physicalweb
