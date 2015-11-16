@@ -96,6 +96,10 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 ### Parallell metaprogrammering
 
 Π framställs med generaliserad kedjebråkbeskrivning av en Machin-liknande formel och M500 numeriska talbibliotek.
+<a href="https://github.com/maingra/acb2015/blob/mark_patch_pa1/datascience.md” target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/1481275/11183599/fdb3b184-8c72-11e5-890a-065ebc5496d9.png ">
+</a>
+
 
 #### Kod
 
