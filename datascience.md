@@ -4,7 +4,7 @@ På en dag av intensiv kodning visar jag några av de färdigheter som krävs i 
 <a href="https://rubygems.org/gems/M500">M500</a> ett utökat bibliotek av numeriska datatyper för att möjliggöra snabbast kända metoder för att beräkna π, så kallade Machin-liknande formler och Kedjebråktals metoder.<br>
 QZ ett bibliotek för parallella bearbetning i fler datorer och kalylering av M500 kod.<br>
 <h2>Metod</h2>
-<imgsrc="https://cloud.githubusercontent.com/assets/1481275/11183599/fdb3b184-8c72-11e5-890a-065ebc5496d9.png "><br>
+<img src="https://cloud.githubusercontent.com/assets/1481275/11183599/fdb3b184-8c72-11e5-890a-065ebc5496d9.png "><br>
 Mallen <a href="https://github.com/maingra/PI---a-generalised-continued-fraction-factory">pi-gcff_TMP.rb</a> framställer en kodfil med parallellkod. Vilket i sin tur beräknar π.<br>
 <h2>Hur gör man?</h2><br>
 vid prompten skriver vi<br>
