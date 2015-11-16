@@ -6,15 +6,15 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
 
 ## Projekten
 
- - **Sticky Spider** - iOS Swiftspel
- - **In the Shadows** - Javaspel med libGDX
- - **athega.nes** - NESspel i 8 bitar
- - **Närvaroräknare och Physical Web** - Med Tessel och La Metric
- - **Parkera** - Android app för lättare parkering
- - **Parallell metaprogrammering** - Pi med tusentals decimaler i Ruby
+ - <a href="#sticky-spider">Sticky Spider</a> - iOS Swiftspel
+ - <a href="#in-the-shadows">In the Shadows</a> - Javaspel med libGDX
+ - <a href="#atheganes">athega.nes</a> - NESspel i 8 bitar
+ - <a href="#athega-print3r">ATHEGA PRINT3R</a> - En plotter byggd med Lego Mindstorm EV3
+ - <a href="#närvaroräknare-och-physical-web">Närvaroräknare och Physical Web</a> - Med Tessel och La Metric
+ - <a href="#parkera">Parkera</a> - Android app för lättare parkering
+ - <a href="#parallell-metaprogrammering">Parallell metaprogrammering</a> - Pi med tusentals decimaler i Ruby
  - **Game Theory och Tensorflow** - Fördjupning och presentation
  - **Slideshower** - AppleTV-app med TVMLKit
- - **ATHEGA PRINT3R** - En plotter byggd med Lego Mindstorm EV3
 
 ### Sticky Spider
 
@@ -31,6 +31,20 @@ Litet Swift program som använder Fysik, SpriteKit och GamePlayKit med landscape
 
 #### Demo
 <a href="https://youtu.be/uAOrqWSfsbg"><img src="https://i.ytimg.com/vi/uAOrqWSfsbg/hqdefault.jpg"></a>
+
+### In the shadows
+
+Ett väldigt litet spel där målet är att hitta utgången innan batteriet till ficklampan tar slut.
+
+![In the shadows](in_the_shadows.png) 
+
+#### Tekniker:
+
+ - [libGDX](https://libgdx.badlogicgames.com/)
+ - [Box2D](http://box2d.org/)
+ - [Box2DLights](https://github.com/libgdx/box2dlights)
+
+Koden ligger på [Github](https://github.com/ragulin/InTheShadows).
 
 ### athega.nes
 
@@ -50,20 +64,6 @@ En plotter byggd med Lego Mindstorm EV3 enligt modellen BANNER PRINT3R men med m
 
 <a href="https://youtu.be/SBb7P-RoYLU"><img src="https://i.ytimg.com/vi/SBb7P-RoYLU/hqdefault.jpg"></a>
 
-### In the shadows
-
-Ett väldigt litet spel där målet är att hitta utgången innan batteriet till ficklampan tar slut.
-
-![In the shadows](in_the_shadows.png) 
-
-#### Tekniker:
-
- - [libGDX](https://libgdx.badlogicgames.com/)
- - [Box2D](http://box2d.org/)
- - [Box2DLights](https://github.com/libgdx/box2dlights)
-
-Koden ligger på [Github](https://github.com/ragulin/InTheShadows).
-
 ### Närvaroräknare och Physical Web
 
 Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit glögg, ätit julbord, osv med hjälp av bluetooth som många gäster har aktiverat i sina telefoner. Detta åstadkommer jag genom att skriva små trackers som körs på Tessel-mikrokontroller. De kan då samtidigt agera Physical Web beacons. Eftersom varje station är bemannad, kan man bara genom att ta fram sin telefon få mer information om den man pratar med. För demon har jag även visualiserat besöken på en La Metric.
@@ -79,7 +79,7 @@ Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit g
 
 <a href="https://youtu.be/1QNqxcHJ3w8"><img src="https://i.ytimg.com/vi/1QNqxcHJ3w8/hqdefault.jpg"></a>
 
-### Kod
+#### Kod
 
  - https://github.com/lizell/tessel-lametric-track
  - https://github.com/lizell/tessel-physicalweb
@@ -88,7 +88,15 @@ Inför årets jullunch tänkte jag att vi skulle följa hur många som druckit g
 
 En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom att skapa en påminnelse om gatustädning. När användaren har parkerat startar den appen. Användarens GPS-position hämtas och parkeringsinformation hämtas ifrån Stockholm Opens api. En förifylld dialog för att spara en påminnelse i kalendern visas upp.
 
-### Tekniker:
+#### Tekniker:
 
  - Google Play Services
  - Stockholm Open API
+
+### Parallell metaprogrammering
+
+Π framställs med generaliserad kedjebråkbeskrivning av en Machin-liknande formel och M500 numeriska talbibliotek.
+
+#### Kod
+
+ - https://github.com/maingra/PI---a-generalised-continued-fraction-factory
