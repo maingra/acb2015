@@ -100,3 +100,12 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 #### Kod
 
  - https://github.com/maingra/PI---a-generalised-continued-fraction-factory
+
+### Slideshow i Apple TV
+
+En TVML applikation som visar slides på nya Apple TV. Allt som behövs är ett enklare Swiftprogram i XCode som accessar ett Javascript på en webbserver som presenterar sidor i TVML. TVML är ett XML-format som definerar ett enkelt markupspråk för att skapa sidor i en Apple TV. Mycket enkelt att bygga tillämpningar i för den som är famliljär med Javascript och HTML när det väl är uppsatt och konfigurerat.  
+
+
+
+
+
