@@ -14,7 +14,7 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
  - <a href="#parkera">Parkera</a> - Android app för lättare parkering
  - <a href="#parallell-metaprogrammering">Parallell metaprogrammering</a> - Pi med tusentals decimaler i Ruby
  - **Game Theory och Tensorflow** - Fördjupning och presentation
- - **Slideshower** - AppleTV-app med TVMLKit
+ - <a href="#slideshow-i-apple-tv">Slideshow i Apple TV</a> - AppleTV-app med TVMLKit
 
 ### Sticky Spider
 
