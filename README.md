@@ -13,7 +13,7 @@ Den årliga hackdayn genomfördes i år i det ganska karga och blåsiga hörn av
  - <a href="#närvaroräknare-och-physical-web">Närvaroräknare och Physical Web</a> - Med Tessel och La Metric
  - <a href="#parkera">Parkera</a> - Android app för lättare parkering
  - <a href="#parallell-metaprogrammering">Parallell metaprogrammering</a> - Pi med tusentals decimaler i Ruby
- - **Game Theory och Tensorflow** - Fördjupning och presentation
+ - <a href="#game-theory-och-tensorflow">Game Theory och Tensorflow</a> - Fördjupning och presentation
  - <a href="#slideshow-i-apple-tv">Slideshow i Apple TV</a> - AppleTV-app med TVMLKit
 
 ### Sticky Spider
@@ -100,6 +100,19 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 #### Kod
 
  - https://github.com/maingra/PI---a-generalised-continued-fraction-factory
+
+### Game Theory och TensorFlow
+
+#### Fördjupning och presentation Game Theory
+
+Fördjupade mig i Game Theory genom att titta på föreläsningar på Yale Open University och deras Introduction to Game Theory. Presenterade vad Game Theory är och dess historia. Vi tittade på ”Prisoners Dilemma” https://sv.wikipedia.org/wiki/Fångarnas_dilemma
+
+<img src="http://athega.se/system/uploads/2015/11/prisoner.png"/>
+
+#### TensorFlow
+
+Google släpper delar av sitt ramverk för machine learning, TensorFlow. Jag gjorde en djupdykning och testade några av de tutorials som finns på http://tensorflow.org
+
 
 ### Slideshow i Apple TV
 
