@@ -96,7 +96,9 @@ En Android app som ska hjälpa fordonsägare att undvika parkeringsböter genom 
 ### Parallell metaprogrammering
 
 Π framställs med generaliserad kedjebråkbeskrivning av en Machin-liknande formel och M500 numeriska talbibliotek.
-
+<a href="https://www.linkedin.com/profile/view?id=AAIAAABdccAB6cBu4_QJ8TRx1nMNqJONPOEeDGI&trk=nav_responsive_tab_profile" target="_blank">
+<img src="https://cloud.githubusercontent.com/assets/1481275/11237828/4c03e5c8-8de2-11e5-8fdb-6dc0a6499049.png">
+</a>
 #### Kod
 
  - https://github.com/maingra/PI---a-generalised-continued-fraction-factory
